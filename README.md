@@ -9,6 +9,10 @@
     
 ## Use
     Select the needed requirments for your password such as number, symbold, and length.
+
+## Images
+    ![About Me page with introduction and professional photo](assets\passwordhome.png)
+
     
 ## Questions
     Contact the following with any additional questions:
