@@ -11,7 +11,7 @@
     Select the needed requirments for your password such as number, symbold, and length.
 
 ## Images
-    ![About Me page with introduction and professional photo](https://github.com/Surge3216/sergs-password-gen/blob/master/assets/passworhome.png)
+    ![About Me page with introduction and professional photo](./assets/passworhome.png)
 
     
 ## Questions
